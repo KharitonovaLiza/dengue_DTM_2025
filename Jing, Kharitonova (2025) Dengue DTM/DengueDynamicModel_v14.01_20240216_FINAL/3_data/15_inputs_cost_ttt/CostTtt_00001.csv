@@ -1,0 +1,7 @@
+N_age_groups_eco,age_group_lower_bound_eco,age_group_upper_bound_eco,costs_non_hosp_med,costs_non_hosp_non_med,wd_lost_non_hosp,sd_lost_non_hosp,income_lost_non_hosp,costs_hosp_mild_med,costs_hosp_mild_non_med,wd_lost_hosp_mild,sd_lost_hosp_mild,income_lost_hosp_mild,costs_hosp_severe_med,costs_hosp_severe_non_med,wd_lost_hosp_severe,sd_lost_hosp_severe,income_lost_hosp_severe,long_term_proportion,long_term_cost,daily_wage,mortality_related_productivity,workdays_annual,age_work_start,age_retirement,emp_rate,absenteeism_cost
+6,0,5,70.91,17.76,4.2,0,62.08,657.76,80.56,6.3,0,93.11,1114.73,80.56,8.61,0,127.26,0,9.48,14.99,TRUE,242,18,60,0.986,2.53
+,6,15,70.91,17.76,4.2,4.2,62.08,657.76,80.56,6.3,6.3,93.11,1114.73,80.56,8.61,8.61,127.26,0,9.48,,,,,,,
+,16,17,70.91,17.76,4.2,0,62.08,657.76,80.56,6.3,0,93.11,1114.73,80.56,8.61,0,127.26,0,9.48,,,,,,,
+,18,29,70.91,17.76,6.6,0,97.55,657.76,80.56,6.6,0,97.55,1114.73,80.56,7.61,0,112.48,0,9.48,,,,,,,
+,30,60,70.91,17.76,6.6,0,97.55,657.76,80.56,6.6,0,97.55,1114.73,80.56,7.61,0,112.48,0.3379,9.48,,,,,,,
+,61,100,70.91,17.76,0,0,0,657.76,80.56,0,0,0,1114.73,80.56,0,0,0,0.3379,9.48,,,,,,,

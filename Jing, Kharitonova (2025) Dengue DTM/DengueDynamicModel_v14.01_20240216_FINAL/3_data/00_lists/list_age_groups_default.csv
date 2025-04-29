@@ -1,0 +1,20 @@
+label,lower_bound,upper_bound
+0 years,0,0
+1 years,1,1
+2 years,2,2
+3 years,3,3
+4 years,4,4
+5 years,5,5
+6 years,6,6
+7 years,7,7
+8 years,8,8
+9 years,9,9
+10-11 years,10,11
+12-13 years,12,13
+14-15 years,14,15
+16-18 years,16,18
+19-24 years,19,24
+25-34 years,25,34
+35-49 years,35,49
+50-69 years,50,69
+70-100 years,70,100
